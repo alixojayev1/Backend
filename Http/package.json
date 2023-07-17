@@ -1,0 +1,12 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http.js",
+  "type": "module",
+  "scripts": {
+    "start": "node https.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
